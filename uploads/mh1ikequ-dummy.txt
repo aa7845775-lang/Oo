@@ -1,2 +1,0 @@
-Ini file dummy untuk test upload ke GitHub.
-Timestamp: 2025-10-22T04:49:21.318Z
