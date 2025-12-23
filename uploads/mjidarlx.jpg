@@ -1,0 +1,67 @@
+    <script>
+        var pswp_items = [
+                {
+    src: 'https://img1.pixhost.to/images/11090/673453748_1000083063.jpg',
+    w: 554,
+    h: 554,
+    title: '1000083063.jpg',
+    count_views: 0    },
+            ];
+        var pswp_index = 0;
+    </script>
+
+    <div id="show">
+        <div class="show-title">
+            <h1 data-elem="fixed">
+                <i class="fa fa-picture-o"></i>
+                1000083063.jpg            </h1>
+                    </div>
+        
+        
+        <div class="above-image">
+        	<!-- top ads -->
+                   </div>
+        <div class="image">
+            <img id="image" data-zoom="out" class="image-img" src="https://img1.pixhost.to/images/11090/673453748_1000083063.jpg"
+                 alt="673453748_1000083063.jpg"/>
+        </div>
+        <div class="under-image">
+            
+<style>
+    .adnSpot1{
+        display: inline-block;
+    }
+    
+    .under-image iframe[src="about:blank"]{
+        /* display: none; */
+    }
+    
+    .asdadasda{
+        display: inline-block;
+    }
+</style>
+
+<div class="asdadasda" style="width:300px;height:250px;">
+<script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+ <ins class="eas6a97888e" data-zoneid="3659927"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+</div>
+<div class="asdadasda" style="width:300px;height:250px;">
+<script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+ <ins class="eas6a97888e" data-zoneid="3659927"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+</div>
+<div class="asdadasda" style="width:300px;height:250px;">
+<script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+ <ins class="eas6a97888e" data-zoneid="3659927"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+</div>
+            </div>    
+                <div class="share" data-elem="fixed">
+            Show to friend:            <input class="url" type="text" value="https://pixhost.to/show/11090/673453748_1000083063.jpg">
+            Forum thumbnail:            <input class="bb" type="text" value="[url=https://pixhost.to/show/11090/673453748_1000083063.jpg][img]https://t1.pixhost.to/thumbs/11090/673453748_1000083063.jpg[/img][/url]">
+            HTML thumbmail:            <input class="html" type="text" value="&lt;a href=&quot;https://pixhost.to/show/11090/673453748_1000083063.jpg&quot;&gt;&lt;img src=&quot;https://t1.pixhost.to/thumbs/11090/673453748_1000083063.jpg&quot; alt=&quot;1000083063.jpg&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;">
+        </div>
+    </div>
+
+    
